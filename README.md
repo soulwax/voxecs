@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxecs logo"/>
+</p>
+
 # voxecs
 
 A high-performance sparse-set Entity Component System (ECS) for Dart, inspired by EnTT.
